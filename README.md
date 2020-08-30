@@ -1,2 +1,2 @@
 # TransferLearning
-Implementation of Transfer Learning on the CIFAR dataset
+Implementation of Transfer Learning concept on the CIFAR dataset.
